@@ -14,7 +14,7 @@
 
 Ідемо на сайт https://azure.microsoft.com/ і жмемо **start free**
 
-/img/Screenshot_1.png
+(/img/Screenshot_1.png)
 
 Далі вам потрібно буде увійти в обліковий запис microsoft або створити його якщо в вас його немає. 
 
